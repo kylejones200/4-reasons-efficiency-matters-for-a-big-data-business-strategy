@@ -11,14 +11,7 @@ In this sense, technology for efficiency in Big Data is essential, since it is a
 
 The concept of Big Data becomes evident when conventional systems no longer meet the demand for the volume of data generated throughout the workflow, in terms of handling and analysis of the large volume of information. In such a scenario, it is necessary to develop the analytical capacity to accommodate the new needs for interpretation and application of the information acquired on a daily basis. Thus, the term inserted in the universe of Information Technology differs from all other analysis formats, since it raises the interpretive level. Let's move on to the main characteristics that define it in practice.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
